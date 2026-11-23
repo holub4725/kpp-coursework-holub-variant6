@@ -1,0 +1,3 @@
+station_id;pollutant;concentration;limit_value;duration_score;population_score
+1;NO2;70.0;40.0;45;65
+2;SO2;18.5;20.0;20;35
